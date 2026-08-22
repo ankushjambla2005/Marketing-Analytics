@@ -38,7 +38,7 @@ Managing multi-brand performance marketing spending often leads to data silos an
 ---
 
 ## 📸 Dashboard Preview
-![Executive Overview](image/main_pic.png)
+![Executive Overview](image/main_updated.png)
 ![Channel Drilldown](image/channel_drill_pic.png)
 
 ---
